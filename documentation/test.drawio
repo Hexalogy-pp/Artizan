@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2025-04-13T11:51:25.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0" etag="FdwDxbofCnYNicrWTyWA" version="24.4.0" type="github">
+  <diagram id="5Dt4KpmaOvGpmhWjJK0d" name="Page-1">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wtcij35BZKIihUEtKNHH-2" value="&lt;div&gt;Serveur Production MS Access&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="70" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wtcij35BZKIihUEtKNHH-3" value="&lt;div&gt;Serveur Production MS Access&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="80" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
